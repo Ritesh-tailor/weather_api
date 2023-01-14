@@ -18,6 +18,7 @@ let weather = {
     },
     search: function () {
         this.fetchweather(document.querySelector(".searchbar").value);
+        document.querySelector(".searchbar").value = "";
     }
 };
 

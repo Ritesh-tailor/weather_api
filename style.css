@@ -7,7 +7,7 @@ body {
     overflow: hidden;
     width: 100%;
     font-size: 110%;
-    font-family: 'Kalam', cursive;
+    font-family: 'Press Start 2P', cursive;
 }
 
 .dashboard {
@@ -30,7 +30,7 @@ body {
     border-radius: 20px;
     padding: 10px;
     text-transform: capitalize;
-    font-family: 'Kalam', cursive;
+    font-family: 'Press Start 2P', cursive;
     transition-duration: 300ms;
     border: none;
 }
